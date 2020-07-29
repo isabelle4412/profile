@@ -1,0 +1,78 @@
+@import url('https://fonts.googleapis.com/css2?family=Rubik:ital,wght@0,400;0,500;0,700;1,300&display=swap');
+
+body {
+    background-color: rgba(243, 236, 194, .3);
+    color: #14b1ab ;
+    font-family: 'Rubik', sans-serif;
+    font-size: 17px;
+    line-height: normal;
+    text-align: center;
+   
+}
+
+.container {
+    width: 700px;   /* This sets the width */
+    margin: 0 auto; /* This automatically sets left/right margins */
+  }
+
+h1 {
+    color: #e8505b;
+    font-size: 24px;
+    line-height: 180%;
+}
+
+h2 {
+    font-weight: bold;
+    font-size: 17px;
+}
+
+.introduction {
+    margin-bottom: 30px;
+}
+
+a {
+    font-size: 17px;
+    text-decoration: none;
+}
+
+a:hover {
+    font-weight: bolder;
+}
+
+.yellow-icon {
+    color: #f9d56e;
+    font-size: 33px;
+}
+
+.btn-yellow {
+    background-color: #f9d56e; 
+    border-radius: 4px;
+    padding: 10px;
+    color: white
+}
+
+.card {
+    background-color: white;
+    border: 1px solid rgba(243, 236, 194, .8);
+    border-radius: 1% ;
+    box-shadow: 20px 10px 30px rgba(232, 80, 91, 0.3);
+    margin: 20px 0px;
+    padding: 30px;
+}
+
+img {
+    border-radius: 50%;
+    width : 100px;
+    margin: auto 
+    text-align: center;
+}
+
+.list-inline > li {
+    display: inline-block;
+    padding: 0px 20px;
+  }
+
+  .list-inline {
+    list-style: none;
+    padding-left: 0px;
+  }
