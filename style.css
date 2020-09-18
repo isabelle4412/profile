@@ -7,7 +7,7 @@ body {
     font-size: 17px;
     line-height: normal;
     text-align: center;
-   
+
 }
 
 .container {
@@ -45,7 +45,7 @@ a:hover {
 }
 
 .btn-yellow {
-    background-color: #f9d56e; 
+    background-color: #f9d56e;
     border-radius: 4px;
     padding: 10px;
     color: white
@@ -53,9 +53,8 @@ a:hover {
 
 .card {
     background-color: white;
-    border: 1px solid rgba(243, 236, 194, .8);
     border-radius: 1% ;
-    box-shadow: 20px 10px 30px rgba(232, 80, 91, 0.3);
+    box-shadow: 20px 10px 30px rgba(232, 80, 91, 0.1);
     margin: 20px 0px;
     padding: 30px;
 }
@@ -63,7 +62,7 @@ a:hover {
 img {
     border-radius: 50%;
     width : 100px;
-    margin: auto 
+    margin: auto
     text-align: center;
 }
 
